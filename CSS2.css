@@ -1,0 +1,30 @@
+@charset "utf-8";
+body {
+    background-color:#6673D3
+}
+	
+a:visited {
+	color: #D087EBF;
+}
+
+Ad.jpg {
+    position: absolute;
+    left: 100px;
+    top: 0px;
+}
+
+banner.img {
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:100px;
+    height:100px;
+    background:red;
+}
+
+Sylveon.gif {
+    position: absolute;
+    left: 100px;
+    top: 0px;
+}
+
